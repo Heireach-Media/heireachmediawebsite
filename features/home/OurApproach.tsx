@@ -40,7 +40,7 @@ const infoCards = [
     src: "/images/approach/Discovery.svg",
     heading: "Discovery",
     content:
-      "We dive deep into understanding your brand essence, mission & vision.",
+      "We dive deep into understanding your hello brand essence, mission & vision.",
   },
   {
     src: "/images/approach/Strategy.svg",
