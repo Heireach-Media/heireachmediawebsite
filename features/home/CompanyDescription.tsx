@@ -69,7 +69,7 @@ export default function CompanyDescription() {
               className={"text-white text-base font-amazingSlab py-2"}
               duration={gen.next().value || 1}
             >
-             'the is try' To craft innovative, customized solutions that align with your
+             <span className="text-blue-500">'the is try'</span> To craft innovative, customized solutions that align with your
               goals and position your brand at the forefront of the market. With
               a team of creative visionaries, state-of-the-art tools, and an
               unwavering passion for excellence,
